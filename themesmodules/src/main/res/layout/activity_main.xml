@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.themesmodules.MainActivity">
+
+    <TextView
+        android:id="@+id/customText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text 1..." />
+
+    <TextView
+        android:id="@+id/bigText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/customText"
+        android:text="Text 2..." />
+
+    <Button
+        android:id="@+id/simpleTextButton"
+        android:layout_below="@id/bigText"
+        style="@style/ButtonStyle"
+        android:text="SimpleStyle for Text 1" />
+
+    <Button
+        android:id="@+id/bigTextButton"
+        android:layout_below="@id/simpleTextButton"
+        style="@style/ButtonStyle"
+        android:text="BigPurpleStyle for Text 2" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bigTextButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="32dp" />
+
+    <SeekBar
+        android:id="@+id/seekbar1"
+    android:layout_height="wrap_content"
+    android:layout_width="240px"
+    android:max="500"
+        android:layout_marginTop="22dp"
+        android:layout_below="@+id/bigTextButton"
+        android:layout_toEndOf="@+id/progressBar"
+        android:layout_marginStart="66dp" />
+</RelativeLayout>

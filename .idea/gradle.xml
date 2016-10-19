@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlertDialog" />
+            <option value="$PROJECT_DIR$/BasicViews3" />
+            <option value="$PROJECT_DIR$/CanvasExample3" />
+            <option value="$PROJECT_DIR$/Fragments" />
+            <option value="$PROJECT_DIR$/FrameLayoutExample" />
+            <option value="$PROJECT_DIR$/LinearGradient" />
+            <option value="$PROJECT_DIR$/LinearLayoutExample1" />
+            <option value="$PROJECT_DIR$/ListView" />
+            <option value="$PROJECT_DIR$/SpinnerExample" />
+            <option value="$PROJECT_DIR$/TableLayout" />
+            <option value="$PROJECT_DIR$/UIExample1" />
+            <option value="$PROJECT_DIR$/_01_FirstApp_GeoQuiz" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autoacc_reportfinal" />
+            <option value="$PROJECT_DIR$/checkboxandradio" />
+            <option value="$PROJECT_DIR$/draw_canvas" />
+            <option value="$PROJECT_DIR$/jabneelassign1" />
+            <option value="$PROJECT_DIR$/jabneellab" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/themesmodules" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
