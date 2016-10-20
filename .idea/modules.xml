@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/LinearGradient/LinearGradient.iml" filepath="$PROJECT_DIR$/LinearGradient/LinearGradient.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearLayoutExample1/LinearLayoutExample1.iml" filepath="$PROJECT_DIR$/LinearLayoutExample1/LinearLayoutExample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPref2/SharedPref2.iml" filepath="$PROJECT_DIR$/SharedPref2/SharedPref2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferencesFavorites/SharedPreferencesFavorites.iml" filepath="$PROJECT_DIR$/SharedPreferencesFavorites/SharedPreferencesFavorites.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpinnerExample/SpinnerExample.iml" filepath="$PROJECT_DIR$/SpinnerExample/SpinnerExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/TableLayout/TableLayout.iml" filepath="$PROJECT_DIR$/TableLayout/TableLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/UIExample1/UIExample1.iml" filepath="$PROJECT_DIR$/UIExample1/UIExample1.iml" />
@@ -19,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/autoacc_reportfinal/autoacc_reportfinal.iml" filepath="$PROJECT_DIR$/autoacc_reportfinal/autoacc_reportfinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/checkboxandradio/checkboxandradio.iml" filepath="$PROJECT_DIR$/checkboxandradio/checkboxandradio.iml" />
       <module fileurl="file://$PROJECT_DIR$/draw_canvas/draw_canvas.iml" filepath="$PROJECT_DIR$/draw_canvas/draw_canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_half/first_half.iml" filepath="$PROJECT_DIR$/first_half/first_half.iml" />
       <module fileurl="file://$PROJECT_DIR$/jabneelassign1/jabneelassign1.iml" filepath="$PROJECT_DIR$/jabneelassign1/jabneelassign1.iml" />
       <module fileurl="file://$PROJECT_DIR$/jabneellab/jabneellab.iml" filepath="$PROJECT_DIR$/jabneellab/jabneellab.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />

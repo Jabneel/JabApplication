@@ -1,7 +1,0 @@
-#Wed Oct 19 15:41:48 EDT 2016
-base.0=C\:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\LinearLayoutExample1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ada4a179bad018f74bfd119fe51de10083435d1f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\LinearLayoutExample1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_276418544285ddaebab3d04b52e12eb7a7864939\\classes.dex
-base.1=C\:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\LinearLayoutExample1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_276418544285ddaebab3d04b52e12eb7a7864939
-file.0=C\:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\LinearLayoutExample1\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ada4a179bad018f74bfd119fe51de10083435d1f\\classes.dex
