@@ -10,17 +10,23 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AlertDialog" />
             <option value="$PROJECT_DIR$/BasicViews3" />
-            <option value="$PROJECT_DIR$/CanvasExample3" />
+            <option value="$PROJECT_DIR$/CanvasExampleFinal" />
+            <option value="$PROJECT_DIR$/Databases" />
             <option value="$PROJECT_DIR$/Fragments" />
             <option value="$PROJECT_DIR$/FrameLayoutExample" />
+            <option value="$PROJECT_DIR$/Jabneel1Test2" />
+            <option value="$PROJECT_DIR$/LaunchMap" />
             <option value="$PROJECT_DIR$/LinearGradient" />
             <option value="$PROJECT_DIR$/LinearLayoutExample1" />
             <option value="$PROJECT_DIR$/ListView" />
             <option value="$PROJECT_DIR$/SharedPref2" />
             <option value="$PROJECT_DIR$/SharedPreferencesFavorites" />
+            <option value="$PROJECT_DIR$/SlidingTabsLayout2" />
             <option value="$PROJECT_DIR$/SpinnerExample" />
             <option value="$PROJECT_DIR$/TableLayout" />
             <option value="$PROJECT_DIR$/UIExample1" />
+            <option value="$PROJECT_DIR$/WriteTextIntoFile" />
+            <option value="$PROJECT_DIR$/YouTubeAPI" />
             <option value="$PROJECT_DIR$/_01_FirstApp_GeoQuiz" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/autoacc_reportfinal" />
@@ -29,6 +35,7 @@
             <option value="$PROJECT_DIR$/first_half" />
             <option value="$PROJECT_DIR$/jabneelassign1" />
             <option value="$PROJECT_DIR$/jabneellab" />
+            <option value="$PROJECT_DIR$/myadvertisementapp" />
             <option value="$PROJECT_DIR$/spinner" />
             <option value="$PROJECT_DIR$/themesmodules" />
           </set>

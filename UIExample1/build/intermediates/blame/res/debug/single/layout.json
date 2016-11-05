@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\UIExample1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",

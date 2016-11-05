@@ -9,7 +9,7 @@ import android.support.v4.app.DialogFragment;
 
 
 public class MyDialogFragment extends DialogFragment {
-	Context mContext;
+    Context mContext;
     public MyDialogFragment() {
         mContext = getActivity();
     }

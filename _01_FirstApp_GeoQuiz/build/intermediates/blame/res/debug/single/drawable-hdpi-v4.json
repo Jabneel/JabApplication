@@ -96,12 +96,12 @@
         "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zaido.jpg",
-        "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\src\\main\\res\\drawable-hdpi\\zaido.jpg"
-    },
-    {
         "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zaido.jpg",
+        "source": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\src\\main\\res\\drawable-hdpi\\zaido.jpg"
     },
     {
         "merged": "C:\\Users\\Jabneel\\AndroidStudioProjects\\JabApplication\\_01_FirstApp_GeoQuiz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
